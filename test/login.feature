@@ -1,3 +1,4 @@
+Feature: Log in to account
 Scenario: User log in with correct data
     Given User is on login page 
     When User entered correct login and password 

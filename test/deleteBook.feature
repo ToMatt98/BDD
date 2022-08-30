@@ -1,3 +1,5 @@
+Feature: Deleting Book
+Rule: You must be logged on Admin account
 Scenario: Admin deleting books
     Given Admin is on the library page 
     When Admin clicks on dumpster icon

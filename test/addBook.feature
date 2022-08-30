@@ -1,3 +1,5 @@
+Feature: Adding Book
+Rule: You must be logged on Admin account
 Scenario: Correct adding books
     Given Admin is on the library page 
     When Admin clicks on Add book button
